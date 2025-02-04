@@ -4,7 +4,7 @@ I'm a Backend Developer based in Brazil
 
 📖 Degree in Information Systems
 
-⚙️ I use daily: .ts, .kt, .py, .sql
+⚙️ I use daily: .ts, .kt, .java, .py, .sql
 
 ❤️ Things I like : software integration architecture as integration design patterns
 
